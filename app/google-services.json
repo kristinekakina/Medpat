@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584379260344",
+    "project_id": "medpat-app",
+    "storage_bucket": "medpat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584379260344:android:2690b6b42f03ddb84ac34d",
+        "android_client_info": {
+          "package_name": "com.example.medpatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584379260344-qp068vc0r968av43e69m61u9hruu1h66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCskREL6PSYUFAosoDhLkhnhDUE4tFzgvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584379260344-qp068vc0r968av43e69m61u9hruu1h66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

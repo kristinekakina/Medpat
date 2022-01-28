@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_doc_home.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/activity_doc_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_doc_message.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/activity_doc_message_layout.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/activity_doc_signup.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_doctor.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/activity_doctors.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_item_layout.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_log_in.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_message_item_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_password.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_pat_home.xml" value="0.10555555555555556" />
+        <entry key="app/src/main/res/layout/activity_pat_log_in.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_pat_login.xml" value="0.13425925925925927" />
+        <entry key="app/src/main/res/layout/activity_pat_message.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_pat_message_layout.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/activity_pat_signup.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_patient.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/activity_patient2.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/activity_patients.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/app_bar_doctor.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_patient.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/doc_item_layout.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/fragment_doc_home.xml" value="0.10555555555555556" />
+        <entry key="app/src/main/res/layout/fragment_doctor.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/fragment_edit.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_first2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.10277777777777777" />
+        <entry key="app/src/main/res/layout/fragment_home_.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/fragment_message.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/fragment_messages.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/fragment_patient.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/layout/pat_item_layout.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.16870748299319727" />
+        <entry key="app/src/main/res/menu/doctor.xml" value="0.11481481481481481" />
+        <entry key="app/src/main/res/menu/patient.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

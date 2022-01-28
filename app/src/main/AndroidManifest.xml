@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medpatapp" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MedPatApp" >
+        <activity
+            android:name=".PatientsActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_patients2"
+            android:theme="@style/Theme.MedPatApp.NoActionBar" />
+        <activity
+            android:name=".PatientActivity"
+            android:exported="true"
+            android:label="@string/title_activity_patient"
+            android:theme="@style/Theme.MedPatApp.NoActionBar" />
+        <activity
+            android:name=".DocMessage"
+            android:exported="true" />
+        <activity
+            android:name=".PatMessageLayout"
+            android:exported="true" />
+        <activity
+            android:name=".DocMessageLayout"
+            android:exported="true" />
+        <activity
+            android:name=".MessageItemLayout"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorActivity"
+            android:exported="true"
+            android:label="@string/title_activity_doctor"
+            android:theme="@style/Theme.MedPatApp.NoActionBar" />
+        <activity
+            android:name=".PatMessage"
+            android:exported="true" />
+        <activity
+            android:name=".PatientsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".item_layout"
+            android:exported="true" />
+        <activity
+            android:name=".PatLogIn"
+            android:exported="true" />
+        <activity
+            android:name=".PatHome"
+            android:exported="true"
+            android:label="@string/title_activity_pat_home"
+            android:theme="@style/Theme.MedPatApp.NoActionBar" />
+        <activity
+            android:name=".DocHome"
+            android:exported="true"
+            android:label="@string/title_activity_doc_home"
+            android:theme="@style/Theme.MedPatApp.NoActionBar" />
+        <activity
+            android:name=".DocLogIn"
+            android:exported="true" />
+        <activity
+            android:name=".PatSignup"
+            android:exported="true" />
+        <activity
+            android:name=".DocSignup"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
