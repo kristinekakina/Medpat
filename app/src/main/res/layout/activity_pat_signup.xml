@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <ScrollView
-xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:app="http://schemas.android.com/apk/res-auto"
-xmlns:tools="http://schemas.android.com/tools"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
-tools:context=".DocSignup">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DocSignup">
 
     <LinearLayout
         android:orientation="vertical"
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".DocSignup">
@@ -27,13 +24,13 @@ tools:context=".DocSignup">
             android:textSize="30dp" />
 
         <EditText
-            android:textSize="20dp"
             android:id="@+id/mEdtName"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="36dp"
             android:ems="10"
             android:hint="Your Name"
             android:inputType="textPersonName"
+            android:textSize="20dp"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="144dp" />
 
@@ -93,7 +90,7 @@ tools:context=".DocSignup">
 
         <Button
             android:id="@+id/mBtnLogin"
-            android:layout_width="match_parent"
+            android:layout_width="343dp"
             android:layout_height="wrap_content"
             android:layout_margin="30dp"
             android:text="LOGIN"

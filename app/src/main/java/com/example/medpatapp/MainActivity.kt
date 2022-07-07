@@ -6,21 +6,21 @@ import android.os.Bundle
 import android.widget.Button
 
 class MainActivity : AppCompatActivity() {
-    var buttonDoctor: Button?=null
-    var buttonPatient: Button?=null
+    var buttonLicence: Button?=null
+    var buttonServices: Button?=null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        buttonDoctor = findViewById(R.id.mBtnDoc)
-        buttonPatient = findViewById(R.id.mBtnPat)
-        buttonDoctor!!.setOnClickListener {
+        buttonLicence = findViewById(R.id.mBtnLicence)
+        buttonServices = findViewById(R.id.mBtnServ)
+        buttonLicence!!.setOnClickListener {
             //Moving from one page to another
-            startActivity(Intent(this,DocLogIn::class.java))
+            startActivity(Intent(this,Practitioners::class.java))
         }
-        buttonPatient!!.setOnClickListener {
+        buttonServices!!.setOnClickListener {
             //Moving from one page to another
-            startActivity(Intent(this,PatLogIn::class.java))
+            startActivity(Intent(this,Selector::class.java))
         }
     }
 }

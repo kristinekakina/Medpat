@@ -11,34 +11,34 @@
 
     <Button
         android:id="@+id/mBtnLicence"
-        android:layout_width="188dp"
-        android:layout_height="46dp"
-        android:text="CHECK LICENCING"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DOCTOR"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintHorizontal_bias="0.28"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.403" />
+        app:layout_constraintVertical_bias="0.432" />
 
     <Button
         android:id="@+id/mBtnServ"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" HOSPITAL SERVICES"
+        android:text="PATIENT"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.531"
+        app:layout_constraintHorizontal_bias="0.794"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.553" />
+        app:layout_constraintVertical_bias="0.43" />
 
     <TextView
         android:id="@+id/mTVText"
         android:layout_width="219dp"
         android:layout_height="77dp"
         android:fontFamily="cursive"
-        android:text="PROCEED TO:"
+        android:text="PROCEED AS:"
         android:textSize="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
