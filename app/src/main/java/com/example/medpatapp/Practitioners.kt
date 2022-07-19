@@ -24,7 +24,7 @@ class Practitioners : AppCompatActivity() {
         }
         buttonPhar!!.setOnClickListener {
             //Moving from one page to another
-            startActivity(Intent(this,PatLogIn::class.java))
+            startActivity(Intent(this,MainActivity::class.java))
         }
         buttonBack1!!.setOnClickListener {
             //Moving from one page to another

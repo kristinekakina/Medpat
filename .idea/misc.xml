@@ -3,15 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doc_licence.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doc_licence.xml" value="0.25" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doc_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doc_message.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doc_signup.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doctor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_doctors.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_hos_licence.xml" value="0.16510416666666666" />
-        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
-        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_pat_log_in.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_message_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_pat_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_pat_message.xml" value="0.33" />
         <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_pat_signup.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_patients.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_phar_licence.xml" value="0.17916666666666667" />
-        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_practitioners.xml" value="0.17916666666666667" />
-        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_selector.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_practitioners.xml" value="0.25" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/activity_selector.xml" value="0.25" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/fragment_doctor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/StudioProjects/Medpat1/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/activity_doc_home.xml" value="0.19791666666666666" />
         <entry key="app/src/main/res/layout/activity_doc_login.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_doc_message.xml" value="0.11481481481481481" />
